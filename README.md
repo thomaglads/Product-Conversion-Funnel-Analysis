@@ -3,7 +3,8 @@
 This project analyzes the user conversion funnel for a large e-commerce store to identify the largest drop-off points and provide data-driven recommendations.
 
 ## Dashboard
-![Product Funnel Dashboard](Screenshot 2025-10-24 161731.png)
+<img width="1361" height="770" alt="Screenshot 2025-10-24 161731" src="https://github.com/user-attachments/assets/48734639-40b9-433e-b30e-ae6347e17ed5" />
+
 
 ---
 
